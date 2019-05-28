@@ -1,6 +1,6 @@
 ## vk_group
 
-That script fetchs information about vk group members and returns json file like
+That script fetches information about vk group members and returns json file like
 ```
 {
     "gender": {
